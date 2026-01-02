@@ -1,6 +1,6 @@
 {
     "name": "baileys-starter-kit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Boilerplate for WhatsApp bot using Baileys library",
     "main": "lib/index.js",
     "type": "commonjs",
